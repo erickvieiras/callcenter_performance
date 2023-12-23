@@ -1,0 +1,514 @@
+ID,EMPLOYEE,AGE,GENDER,STATUS,EMPLOYMENT TENURE,EDUCATION DEGREE,PROFESSION,DAY PERIOD,MODALITY,DATE,CALLS TAKEN,INDIVIDUAL ORDER,NETWORK ORDER,INTERNET ORDER,PHONE ORDER,SLOW CONNECTION ORDER,INSPECTION ORDER,CHANGE TECNOLOGY ORDER,EXCHANGE CUSTOMER EQUIPMENT ORDER COST,CHANGE CLIENT POWER ADAPTER ORDER COST,NO ACESS CLIENT ORDER COST
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/01/2023,847,183,19,134,5,19,17,2,0,280,1260
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/02/2023,675,152,22,123,2,10,14,3,0,280,700
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/03/2023,794,181,31,139,6,17,14,3,210,200,700
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/04/2023,662,150,17,123,4,12,6,3,0,280,280
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/05/2023,631,125,16,96,3,11,5,5,210,240,420
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/06/2023,561,123,8,99,2,7,8,2,0,200,350
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/07/2023,550,120,10,88,3,10,10,2,0,40,350
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/08/2023,0,0,0,0,0,0,0,0,0,0,0
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/09/2023,586,165,18,132,3,9,12,6,0,360,280
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/10/2023,694,172,30,132,2,18,12,8,0,640,770
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/11/2023,686,173,18,143,1,7,17,6,210,600,350
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,In Person Work,01/12/2023,324,72,6,59,1,5,5,2,0,200,210
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/01/2022,616,110,41,79,0,13,14,2,0,120,490
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/02/2022,628,135,33,105,2,8,13,5,0,200,560
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/03/2022,719,162,25,131,3,11,2,5,0,280,700
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/04/2022,905,148,20,117,1,8,14,4,0,160,420
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/05/2022,625,133,12,99,4,7,15,5,0,200,980
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/06/2022,634,115,13,83,2,11,13,2,0,120,490
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/07/2022,593,123,22,82,4,12,11,5,0,80,280
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/08/2022,519,115,22,83,2,12,11,2,0,40,350
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/09/2022,470,100,14,65,0,9,13,8,210,40,280
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/10/2022,554,121,18,79,0,13,22,3,0,120,840
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/11/2022,0,0,0,0,0,0,0,0,0,0,0
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/12/2022,504,109,16,88,2,8,9,0,0,200,910
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/01/2021,793,163,43,109,4,24,17,5,0,160,910
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/02/2021,859,174,90,119,3,31,11,4,0,480,420
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/03/2021,965,163,47,111,1,28,13,6,0,200,630
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/04/2021,685,129,19,78,2,30,15,0,0,160,840
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/05/2021,625,112,13,85,1,11,10,3,0,320,280
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/06/2021,646,120,34,75,0,25,9,3,0,80,560
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/07/2021,629,135,20,66,2,27,30,5,0,80,350
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/08/2021,578,127,24,90,1,19,13,2,0,120,630
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/09/2021,814,129,34,87,1,25,9,4,0,160,770
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/10/2021,694,137,36,103,3,19,8,2,0,160,910
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/11/2021,0,0,0,0,0,0,0,0,0,0,0
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Day Shift,Remote Work,01/12/2021,586,132,55,116,2,5,3,2,0,280,420
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,In Person Work,01/01/2020,707,152,57,115,3,24,10,0,0,160,980
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,In Person Work,01/02/2020,770,148,91,120,3,19,6,0,0,200,770
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,In Person Work,01/03/2020,763,128,59,93,2,25,8,0,0,160,630
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/04/2020,603,85,18,54,2,21,7,0,0,80,210
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/05/2020,763,126,47,91,0,12,20,1,0,80,700
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/06/2020,647,122,39,74,3,19,25,0,0,40,630
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/07/2020,697,140,41,82,0,17,35,4,0,240,560
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/08/2020,616,155,29,114,1,19,15,4,0,80,350
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/09/2020,697,137,46,96,4,11,20,6,0,120,420
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/10/2020,716,138,45,83,4,23,19,5,0,200,490
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/11/2020,0,0,0,0,0,0,0,0,0,0,0
+657845,E. Vieira,31,Male,Active,5 Years,Undergraduate Degree,Data Scientist,Night Shift,Remote Work,01/12/2020,952,160,55,112,4,15,24,3,0,280,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/01/2023,595,106,14,91,1,1,10,2,0,120,490
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/02/2023,532,115,28,98,2,2,12,1,0,440,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/03/2023,554,107,28,82,3,4,14,1,0,120,490
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/04/2023,537,114,17,91,4,1,11,3,0,280,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/05/2023,0,0,0,0,0,0,0,0,0,0,0
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,In Person Work,01/06/2023,491,98,11,77,4,6,7,1,0,240,700
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,In Person Work,01/07/2023,431,99,14,72,2,11,11,3,0,200,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,In Person Work,01/08/2023,303,45,20,35,0,2,6,1,0,240,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,In Person Work,01/09/2023,497,100,11,75,6,1,16,1,210,10,490
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,In Person Work,01/10/2023,532,141,26,107,4,3,21,2,0,440,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,In Person Work,01/11/2023,544,117,29,97,1,4,10,0,0,480,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,In Person Work,01/12/2023,366,83,10,68,1,7,7,0,0,320,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/01/2022,727,121,40,95,1,7,14,0,0,160,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/02/2022,585,137,26,110,4,4,17,1,0,320,490
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/03/2022,607,108,15,91,1,4,7,0,210,280,490
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/04/2022,742,104,28,84,3,5,8,0,0,200,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/05/2022,26,7,4,7,0,0,0,0,0,80,0
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/06/2022,505,83,11,66,2,2,11,1,0,240,4
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/07/2022,518,86,16,66,2,3,14,1,0,120,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/08/2022,471,85,19,70,3,2,8,0,0,40,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/09/2022,408,94,13,74,2,4,8,4,0,80,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/10/2022,445,87,13,63,7,2,7,4,0,40,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/11/2022,564,117,37,97,1,7,10,2,0,200,560
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/12/2022,565,120,24,92,2,8,14,2,0,440,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/01/2021,977,173,57,113,3,14,22,7,0,440,630
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/02/2021,932,137,57,120,3,7,17,14,0,360,140
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/03/2021,929,150,41,82,1,10,30,12,0,200,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/04/2021,606,114,40,74,1,6,16,11,0,80,490
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/05/2021,12,2,3,2,0,0,0,0,0,0,0
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/06/2021,615,86,23,58,1,7,13,4,0,120,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/07/2021,649,109,12,61,5,13,17,7,0,160,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/08/2021,492,84,26,60,3,12,5,1,0,120,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/09/2021,753,128,21,74,2,10,27,10,0,80,280
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/10/2021,661,107,27,84,3,5,10,0,0,200,350
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/11/2021,625,97,16,64,3,8,14,2,0,40,280
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Day Shift,Remote Work,01/12/2021,685,120,37,98,2,5,11,0,210,40,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/01/2020,731,144,56,98,4,13,6,19,0,400,490
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/02/2020,641,138,52,114,2,5,7,5,0,240,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/03/2020,817,104,34,69,3,10,11,1,0,200,280
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/04/2020,598,71,55,49,1,4,16,1,210,80,200
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/05/2020,23,6,10,3,0,0,2,0,0,40,0
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/06/2020,611,95,22,63,4,1,21,0,0,80,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/07/2020,469,80,21,45,1,4,20,0,0,120,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/08/2020,629,111,26,70,5,7,17,1,0,120,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/09/2020,723,159,33,102,8,4,24,6,0,200,420
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/10/2020,747,127,27,88,4,9,16,2,0,80,210
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/11/2020,703,122,28,75,4,9,15,13,0,120,140
+228231,R. Rocha,30,Male,Active,8 Years,University Student,Technical Support,Night Shift,Remote Work,01/12/2020,499,81,28,56,3,6,5,5,0,40,70
+197548,T. Ferraz,35,Female,Active,5 Months,High School,Technical Support,Day Shift,In Person Work,01/08/2023,536,112,13,90,0,6,6,0,0,280,280
+197548,T. Ferraz,35,Female,Active,5 Months,High School,Technical Support,Day Shift,In Person Work,01/09/2023,483,96,9,75,4,6,6,4,0,400,420
+197548,T. Ferraz,35,Female,Active,5 Months,High School,Technical Support,Night Shift,In Person Work,01/10/2023,570,122,16,83,1,18,9,5,0,240,420
+197548,T. Ferraz,35,Female,Active,5 Months,High School,Technical Support,Night Shift,In Person Work,01/11/2023,469,95,26,74,1,3,12,2,0,120,420
+197548,T. Ferraz,35,Female,Active,5 Months,High School,Technical Support,Night Shift,In Person Work,01/12/2023,331,64,9,55,0,3,3,1,0,120,70
+258519,H. Judice,26,Male,Active,5 Months,High School,Technical Support,Day Shift,In Person Work,01/08/2023,413,91,13,91,0,12,9,0,0,320,490
+258519,H. Judice,26,Male,Active,5 Months,High School,Technical Support,Day Shift,In Person Work,01/09/2023,520,113,10,111,2,8,15,0,0,240,210
+258519,H. Judice,26,Male,Active,5 Months,High School,Technical Support,Night Shift,In Person Work,01/10/2023,599,116,16,116,0,13,20,4,0,160,350
+258519,H. Judice,26,Male,Active,5 Months,High School,Technical Support,Night Shift,In Person Work,01/11/2023,491,121,16,118,3,4,13,1,0,520,700
+258519,H. Judice,26,Male,Active,5 Months,High School,Technical Support,Night Shift,In Person Work,01/12/2023,346,75,5,56,0,2,13,1,0,40,280
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/01/2023,122,28,9,25,1,1,0,1,0,0,0
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/02/2023,497,137,22,119,6,4,9,0,0,400,350
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/03/2023,481,137,20,122,1,6,7,0,0,160,630
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/04/2023,411,110,9,88,3,0,14,5,0,40,350
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/05/2023,473,115,9,80,0,1,29,3,0,200,350
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/06/2023,435,99,9,74,1,0,20,1,0,120,350
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/07/2023,360,109,8,73,1,1,33,0,0,240,140
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/08/2023,645,142,10,109,0,0,24,4,0,200,490
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/09/2023,376,99,11,73,2,0,21,2,0,200,350
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/10/2023,373,119,12,83,2,4,29,2,0,200,280
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/11/2023,281,75,31,49,1,0,23,1,210,40,350
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/12/2022,7,0,0,0,0,0,0,0,0,0,0
+222225,H. Travassos,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/12/2023,182,58,14,48,1,0,0,0,0,160,70
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/01/2020,561,137,53,121,0,16,0,0,0,360,140
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/02/2020,518,125,66,111,1,10,1,0,0,320,490
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/03/2020,499,102,26,86,1,9,2,1,0,80,630
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/04/2020,452,94,13,68,3,21,1,1,0,80,350
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/05/2020,681,156,16,132,3,21,0,0,420,40,420
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/06/2020,544,120,27,91,3,22,4,0,0,160,350
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/07/2020,492,105,18,82,2,18,1,0,0,80,630
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/08/2020,5,1,0,1,0,0,0,0,0,120,70
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/09/2020,384,118,13,83,2,27,2,4,0,120,0
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/10/2020,438,120,24,85,1,17,2,12,0,80,280
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/11/2020,558,152,14,119,1,22,2,6,0,240,560
+177771,G. Rocha,32,Male,Inactive,3 Years,High School,Technical Support,Night Shift,Remote Work,01/12/2020,632,108,37,87,2,12,1,6,0,160,350
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2020,603,108,54,93,4,5,5,1,0,280,140
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/02/2020,58,13,25,11,0,1,1,0,0,0,70
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/03/2020,224,29,34,19,1,4,1,2,0,0,140
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2020,694,117,23,95,4,12,1,3,210,120,700
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2020,764,131,45,108,6,14,1,2,0,80,490
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2020,0,0,0,0,0,0,0,0,0,0,0
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/07/2020,804,172,35,122,10,25,3,7,0,490,560
+767813,B. Ferreira,29,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2020,494,115,25,87,3,18,1,4,0,120,420
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/01/2023,520,97,24,52,3,16,16,4,0,120,490
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Dawn Shift,In Person Work,01/02/2023,62,13,9,9,0,1,2,0,0,0,0
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/03/2023,378,76,25,48,0,10,9,6,0,40,350
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Dawn Shift,In Person Work,01/04/2023,30,5,12,3,0,2,2,0,0,0,0
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/05/2023,380,98,15,62,4,8,0,5,0,320,350
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Dawn Shift,In Person Work,01/06/2023,78,12,13,6,0,3,2,1,0,0,140
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/07/2023,345,94,7,61,2,13,14,1,0,240,350
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Dawn Shift,In Person Work,01/08/2023,95,23,9,17,0,3,3,0,0,40,70
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Dawn Shift,In Person Work,01/09/2023,0,0,0,0,0,0,0,0,0,0,0
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Dawn Shift,In Person Work,01/10/2023,29,6,12,4,0,1,1,0,0,0,70
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/11/2023,301,82,16,61,3,9,5,5,0,280,490
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/12/2023,44,11,13,10,0,0,1,0,0,80,70
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Day Shift,In Person Work,01/06/2022,345,60,2,42,6,6,4,2,0,40,140
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Day Shift,In Person Work,01/07/2022,489,95,4,69,6,11,5,1,0,120,350
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Day Shift,In Person Work,01/08/2022,460,93,9,65,5,12,11,0,0,80,490
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/09/2022,418,77,10,54,2,5,13,2,0,0,350
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/10/2022,310,76,8,42,2,17,12,1,0,40,350
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Night Shift,In Person Work,01/11/2022,117,41,20,23,0,9,7,1,0,80,0
+444479,V. Ferreira,37,Male,Active,1 Year,Undergraduate Degree,Logistics Management,Dawn Shift,In Person Work,01/12/2022,39,10,22,5,0,1,3,0,0,40,0
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/01/2023,56,3,8,3,0,0,0,0,0,0,140
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/02/2023,297,79,35,69,1,6,6,1,0,320,140
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Dawn Shift,In Person Work,01/03/2023,77,9,17,8,0,0,1,0,0,80,210
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/04/2023,339,78,18,64,1,6,6,0,0,80,210
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Dawn Shift,In Person Work,01/05/2023,15,7,9,5,0,0,1,1,0,0,0
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/06/2023,320,77,7,68,1,1,1,4,0,40,560
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Dawn Shift,In Person Work,01/07/2023,11,3,5,2,0,0,1,0,0,40,0
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Night Shift,In Person Work,01/08/2023,501,118,8,104,3,5,4,1,0,120,350
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Dawn Shift,In Person Work,01/09/2023,36,16,8,14,0,1,1,0,0,0,0
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Dawn Shift,In Person Work,01/10/2023,1,0,0,0,0,0,0,0,0,0,0
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Dawn Shift,In Person Work,01/11/2023,21,8,12,6,0,0,0,0,0,0,0
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Dawn Shift,In Person Work,01/12/2023,305,79,10,67,2,5,2,1,0,160,280
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/08/2022,274,55,13,50,0,0,5,0,0,120,280
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/09/2022,288,71,13,49,0,1,19,1,0,40,280
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/10/2022,468,89,17,63,0,0,24,2,0,120,240
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/11/2022,420,99,25,77,1,3,15,2,0,120,280
+333335,T. Oliveira,22,Male,Active,1 Year,University Student,Technical Support,Day Shift,In Person Work,01/12/2022,457,116,35,102,2,6,4,2,0,120,240
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/01/2023,592,118,36,92,3,13,6,3,0,40,560
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/02/2023,479,99,39,78,2,5,13,1,0,200,280
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/03/2023,38,7,3,7,0,0,0,0,0,0,0
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/04/2023,455,116,18,84,2,5,17,3,0,120,420
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/05/2023,523,117,11,83,4,2,17,6,0,160,700
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2023,479,93,14,68,3,2,17,0,0,0,210
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/07/2023,384,103,13,76,0,3,19,2,0,120,280
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2023,359,103,22,80,1,1,17,4,0,120,0
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/09/2023,180,63,11,49,0,0,12,1,0,120,210
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/10/2023,4,1,0,1,0,0,0,0,0,0,0
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2022,648,133,21,115,0,1,13,0,0,80,420
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2022,447,72,18,57,2,4,5,0,0,120,140
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/03/2022,514,118,27,89,1,10,15,1,0,160,140
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/04/2022,685,138,36,94,1,5,33,3,0,200,490
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/05/2022,405,83,14,57,1,6,16,2,0,80,350
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2022,462,72,18,48,1,6,15,1,0,80,70
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/07/2022,458,99,21,75,2,14,4,2,0,0,280
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2022,484,104,13,79,1,18,3,0,0,80,280
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/09/2022,54,11,12,9,0,2,0,0,0,0,70
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/10/2022,6,0,9,0,0,0,0,0,0,0,0
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/11/2022,339,63,17,46,0,13,0,4,0,160,280
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/12/2022,504,114,19,98,3,8,2,2,0,160,350
+212121,F. Pastana,22,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2021,92,14,8,13,0,0,0,0,0,0,70
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Day Shift,Remote Work,01/01/2021,614,118,21,85,3,9,15,3,0,200,280
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Dawn Shift,Remote Work,01/02/2021,54,8,16,5,0,1,2,0,0,0,70
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/03/2021,347,63,17,39,0,4,16,2,0,80,140
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Dawn Shift,Remote Work,01/04/2021,95,20,15,14,1,17,4,1,0,80,70
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/05/2021,398,93,10,49,1,9,27,1,0,80,280
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Dawn Shift,In Person Work,01/06/2021,54,13,9,10,0,1,2,0,0,0,0
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Day Shift,In Person Work,01/07/2021,598,150,12,100,3,16,22,2,0,200,200
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,In Person Work,01/08/2021,550,114,28,80,1,12,17,1,0,200,490
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,In Person Work,01/09/2021,264,66,15,42,1,8,22,1,0,40,420
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,In Person Work,01/10/2020,0,0,0,0,0,0,0,0,0,0,0
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Day Shift,In Person Work,01/01/2020,750,154,63,113,1,21,18,0,0,160,420
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Day Shift,In Person Work,01/02/2020,824,163,70,131,5,12,14,0,0,320,700
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Day Shift,Remote Work,01/03/2020,933,183,38,136,4,24,17,0,0,400,1120
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/04/2020,657,98,21,66,2,17,14,0,0,160,420
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/05/2020,784,154,34,97,9,15,29,1,0,280,420
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/06/2020,631,128,23,97,1,17,11,0,0,200,350
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/07/2020,640,148,16,95,7,21,22,2,0,120,280
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/08/2020,540,144,15,104,3,14,17,0,210,160,630
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/09/2020,522,121,23,74,6,15,22,2,0,40,420
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Dawn Shift,Remote Work,01/10/2020,16,3,0,1,0,1,1,0,0,0,0
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/11/2020,516,111,19,79,2,5,14,2,0,160,420
+672332,M. Vinicius,31,Male,Inactive,3 Years,Undergraduate Degree,Information Systems Analyst,Night Shift,Remote Work,01/12/2020,602,104,21,81,3,7,10,0,0,80,350
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/01/2021,1089,231,64,157,7,14,17,6,0,320,560
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/02/2021,1020,250,50,185,4,16,20,7,0,480,1120
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/03/2021,747,183,34,128,3,12,21,4,0,200,770
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/04/2021,0,0,0,0,0,0,0,0,0,80,70
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/05/2021,660,155,25,118,1,7,15,2,0,200,980
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/06/2021,477,120,13,78,3,11,20,3,0,240,560
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/07/2021,424,107,4,75,3,10,14,2,0,200,490
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/08/2021,54,10,3,5,2,0,3,0,0,0,0
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/09/2021,30,5,7,5,0,0,0,0,0,0,0
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/12/2021,14,4,2,1,1,1,1,0,0,0,0
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/01/2020,763,158,49,139,6,11,1,0,210,440,770
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/02/2020,773,166,67,132,4,18,12,0,0,320,560
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/03/2020,861,163,33,120,6,20,16,0,0,280,420
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/04/2020,111,16,5,15,0,0,1,0,0,0,0
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/05/2020,673,143,17,116,1,11,13,2,0,160,210
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/06/2020,762,158,22,126,4,12,13,0,210,80,210
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/07/2020,725,197,31,140,2,17,27,3,0,280,490
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/08/2020,747,187,27,144,5,13,15,3,0,120,420
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/09/2020,725,197,24,132,9,12,25,7,0,240,770
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/10/2020,421,104,30,79,3,5,7,4,0,320,280
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/11/2020,694,190,38,130,6,10,21,6,0,160,770
+557779,S. Henrique,33,Male,Inactive,5 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/12/2020,827,193,40,142,5,12,12,3,0,240,420
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2022,387,121,26,104,0,3,9,0,0,240,630
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2021,839,213,44,163,5,8,15,11,0,280,280
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2021,690,174,43,147,1,8,12,4,0,520,770
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2021,737,182,41,132,3,12,20,7,0,280,210
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2021,637,184,31,151,1,4,15,11,0,120,560
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2021,550,138,27,101,3,6,11,13,0,120,420
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/06/2021,525,116,11,83,5,7,9,7,0,80,490
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/07/2021,485,148,14,107,7,6,16,3,0,200,630
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/08/2021,408,130,29,101,5,4,12,5,0,160,910
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/09/2021,0,0,0,0,0,0,0,0,0,0,0
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/10/2021,454,157,27,142,1,6,4,4,0,160,700
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2021,332,116,24,105,3,0,4,4,0,80,630
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2021,554,179,36,164,1,5,7,7,0,160,1120
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2020,650,175,43,154,4,11,5,5,210,280,630
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2020,662,171,62,154,2,5,9,9,0,400,700
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2020,818,164,63,141,6,5,5,5,0,280,770
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2020,613,147,38,117,4,12,10,10,210,120,420
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2020,801,231,46,190,3,16,6,6,0,440,1190
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/06/2020,690,178,35,137,8,13,7,7,210,200,980
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/07/2020,733,220,44,173,9,13,10,10,0,200,1120
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/08/2020,689,191,40,150,7,11,11,11,0,240,560
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/09/2020,0,0,0,0,0,0,0,0,0,0,0
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/10/2020,713,191,53,150,6,6,10,10,0,240,630
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2020,725,200,58,164,6,5,9,9,0,240,1050
+199994,K. Alef,29,Male,Inactive,8 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2020,733,170,34,128,7,11,11,11,0,200,560
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/01/2022,56,7,9,6,0,1,0,0,0,0,0
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/02/2022,391,103,21,64,5,22,16,4,0,80,280
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2022,1012,47,25,44,0,1,1,0,0,160,210
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2022,604,106,37,76,3,13,11,3,0,120,350
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/05/2022,478,92,29,10,5,4,7,5,0,200,210
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/06/2022,46,14,16,10,1,1,0,1,0,40,0
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/07/2022,23,2,12,2,0,0,0,0,0,0,0
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2022,340,87,29,60,2,7,14,2,0,80,140
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/09/2022,140,43,6,26,0,3,10,1,0,0,140
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/10/2022,158,40,12,313,0,0,5,1,0,0,70
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/11/2022,513,122,41,93,2,8,12,4,0,80,350
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/12/2022,6,1,0,1,0,0,0,0,0,40,140
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2021,1010,253,61,134,2,30,23,22,0,440,630
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2021,1053,231,76,135,5,22,25,19,420,360,490
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2021,1012,234,26,147,8,20,24,16,0,280,560
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2021,807,186,41,108,3,13,11,3,0,40,490
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/05/2021,587,137,22,65,3,16,21,12,210,240,490
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2021,755,151,33,82,4,23,19,15,0,200,280
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/07/2021,126,19,16,2,0,3,5,1,210,40,70
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2021,386,70,18,41,2,9,4,5,0,40,70
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/09/2021,127,22,16,13,0,2,4,1,0,40,0
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/10/2021,484,121,26,73,3,13,13,3,210,80,210
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Dawn Shift,In Person Work,01/11/2021,40,11,30,6,0,1,1,3,0,0,0
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/12/2021,105,17,13,16,0,0,1,0,0,0,70
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Night Shift,In Person Work,01/10/2020,665,175,27,108,6,14,22,5,0,40,160
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2020,1017,252,47,129,7,23,15,19,0,200,560
+171171,V. Campos,25,Male,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2020,926,210,51,117,4,14,15,20,0,240,240
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/01/2022,535,114,40,81,4,8,13,4,0,80,350
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/02/2022,456,95,42,70,3,4,13,0,0,240,140
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Dawn Shift,In Person Work,01/03/2022,12,3,5,3,0,0,0,0,0,0,0
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/04/2022,580,139,58,113,1,6,10,2,0,160,490
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/05/2022,208,62,16,48,3,1,4,1,0,120,420
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/01/2021,873,194,42,115,9,16,8,11,0,440,770
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/02/2021,928,193,68,134,7,13,12,8,0,440,350
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Dawn Shift,In Person Work,01/03/2021,63,20,2,11,0,1,0,0,0,80,70
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/04/2021,731,135,43,86,2,12,14,7,0,200,350
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/05/2021,574,138,26,90,6,8,10,9,0,160,420
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/06/2021,645,132,23,84,4,11,6,15,0,120,910
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/07/2021,491,116,23,77,4,7,17,5,0,200,560
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/08/2021,558,119,41,80,2,12,8,4,210,120,350
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/09/2021,591,118,49,87,3,4,9,9,0,0,490
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/10/2021,621,116,52,94,5,1,6,7,0,160,210
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/11/2021,526,144,15,109,2,8,8,5,0,240,630
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/12/2021,684,181,48,154,1,4,6,4,0,320,700
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Night Shift,In Person Work,01/01/2020,130,26,13,24,0,0,2,0,0,40,420
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/02/2020,454,88,42,63,2,11,8,1,0,280,350
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/03/2020,773,113,51,78,9,12,5,0,0,240,140
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/04/2020,529,94,28,59,7,6,7,8,0,240,350
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/05/2020,810,137,69,99,4,9,7,6,0,160,210
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/06/2020,678,177,36,119,2,9,17,7,210,200,350
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/07/2020,760,163,52,102,5,6,15,9,0,200,840
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/08/2020,802,173,49,106,4,13,20,4,0,120,630
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/09/2020,688,179,54,95,6,14,28,10,0,160,770
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/10/2020,550,116,55,63,2,8,18,11,210,0,210
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/11/2020,315,71,27,37,1,4,5,9,0,80,140
+888975,J. Petter,33,Male,Inactive,6 Years,Undergraduate Degree,IT Management,Day Shift,In Person Work,01/12/2020,805,144,64,84,4,10,6,12,210,200,420
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2023,447,87,30,65,2,1,17,0,210,120,70
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2023,398,96,29,80,1,1,8,2,0,240,140
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2023,568,98,25,75,0,2,12,1,0,280,420
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2023,139,33,5,25,1,0,4,0,0,40,0
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2022,151,31,11,22,0,1,7,1,0,40,70
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2022,531,110,15,82,3,2,20,1,0,120,280
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2022,610,137,30,137,2,0,22,4,0,280,490
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2022,700,115,20,91,2,1,20,0,0,80,560
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2022,556,114,19,72,5,3,23,3,0,80,140
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/06/2022,409,63,12,40,0,2,18,2,0,80,280
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/07/2022,447,77,19,57,1,1,13,3,0,240,490
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/08/2022,435,79,9,54,1,1,18,0,0,80,280
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/09/2022,352,57,13,43,3,0,9,0,210,40,70
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/10/2022,21,5,0,3,0,0,1,1,0,0,0
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2022,615,106,25,84,6,1,11,5,0,120,420
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2022,482,99,26,77,2,1,16,2,0,80,490
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2021,345,83,14,62,2,4,9,1,0,160,210
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2021,650,118,19,77,5,6,16,9,0,120,350
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2021,367,59,11,42,2,0,9,4,0,40,350
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/06/2021,782,131,16,74,4,4,30,9,0,160,490
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/07/2021,551,100,6,55,4,6,24,7,0,160,420
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/08/2021,445,79,20,53,4,2,14,5,0,0,140
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/09/2021,787,119,35,81,4,5,17,3,0,80,210
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/10/2021,538,131,36,85,1,9,23,6,0,120,350
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2021,417,94,10,63,4,3,19,1,0,160,70
+171182,Z. Paula,23,Female,Inactive,2 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2021,177,32,5,32,0,1,5,1,0,40,70
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/01/2023,473,118,15,84,0,5,29,0,0,200,560
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/02/2023,463,128,37,95,1,3,27,2,0,480,560
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/03/2023,594,112,30,86,1,0,21,3,0,80,420
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/04/2023,0,0,0,0,0,0,0,0,0,0,0
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/05/2023,477,94,7,74,0,2,15,3,0,120,350
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2023,524,104,6,82,1,1,18,1,0,200,70
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/07/2023,444,120,4,88,2,4,23,1,0,160,420
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2023,473,110,10,83,0,1,24,1,0,320,280
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/09/2023,302,98,8,70,2,5,20,1,0,120,140
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Day Shift,In Person Work,01/10/2023,449,112,10,79,1,5,31,5,0,120,420
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2023,393,103,12,81,0,3,16,3,0,240,350
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2023,249,57,6,48,0,2,3,2,0,320,140
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2022,525,98,15,77,1,9,10,0,210,120,140
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2022,422,107,21,87,2,6,12,0,0,120,210
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/03/2022,510,94,23,63,1,13,15,0,210,160,280
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/04/2022,607,138,24,109,2,9,17,0,0,80,420
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/05/2022,480,116,12,72,3,13,24,4,0,120,350
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2022,381,97,13,72,4,15,6,1,0,80,420
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/07/2022,499,104,15,70,1,20,12,1,0,80,140
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2022,349,94,15,60,1,15,13,4,0,40,420
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/09/2022,371,125,10,79,1,8,31,3,0,40,490
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/10/2022,338,79,5,46,1,2,28,1,0,120,140
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/11/2022,432,119,12,92,0,4,17,3,0,80,420
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Night Shift,In Person Work,01/12/2022,516,142,17,107,1,1,30,3,210,240,490
+444881,F. Santhiago,35,Male,Active,2 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2021,66,9,1,7,0,2,0,0,0,0,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/01/2023,427,114,19,92,0,7,11,1,0,80,630
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/02/2023,149,48,13,39,4,1,4,1,0,120,140
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/03/2023,387,109,23,84,2,7,10,5,0,200,210
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/04/2023,402,101,15,77,2,10,6,5,0,120,560
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/05/2023,420,108,10,80,1,9,15,2,0,280,280
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/06/2023,0,0,0,0,0,0,0,0,0,0,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/07/2023,361,109,9,88,2,3,15,0,0,200,70
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/08/2023,517,102,12,74,2,9,10,4,0,240,140
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/09/2023,369,112,7,99,2,3,5,3,210,120,350
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/10/2023,386,124,12,92,1,12,13,5,0,200,420
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/11/2023,387,137,15,114,2,4,15,0,0,320,350
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,Remote Work,01/12/2023,236,81,6,70,1,4,4,1,0,200,210
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/01/2022,101,22,9,18,0,2,2,0,0,0,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/02/2022,34,5,8,5,0,0,0,0,0,0,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/03/2022,395,86,24,65,0,7,8,1,0,160,350
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/04/2022,53,18,14,15,0,0,2,0,0,0,70
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/05/2022,12,3,7,3,0,0,0,0,0,40,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/06/2022,277,56,12,43,0,7,3,1,0,0,140
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/07/2022,20,6,0,4,0,0,2,0,0,40,70
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/08/2022,51,16,7,12,0,2,2,0,0,40,70
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/09/2022,297,71,14,55,1,8,2,2,210,80,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/10/2022,260,85,10,66,1,7,7,3,0,80,560
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/11/2022,354,117,19,97,1,7,6,5,0,120,350
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/12/2022,344,105,9,86,1,7,8,2,0,120,630
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/01/2021,160,37,23,31,0,0,4,0,0,0,350
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/02/2021,672,137,40,107,3,3,13,3,0,120,630
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/03/2021,62,15,46,13,0,1,1,0,0,120,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Day Shift,In Person Work,01/04/2021,486,124,16,83,1,7,22,2,0,200,280
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/05/2021,58,11,10,6,0,2,2,1,0,0,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/06/2021,277,93,21,56,1,12,15,3,0,40,140
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/07/2021,96,7,1,3,0,2,2,0,0,0,140
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/08/2021,82,7,7,3,0,2,2,0,0,0,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/09/2021,516,91,21,58,2,8,17,1,0,80,280
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,In Person Work,01/10/2021,84,10,18,7,0,1,1,0,0,0,70
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/11/2021,303,65,10,44,2,3,9,0,0,120,140
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/12/2021,407,93,32,60,8,10,8,1,0,160,350
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,Remote Work,01/01/2020,631,113,36,93,1,11,7,0,0,160,350
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,Remote Work,01/02/2020,149,128,42,114,2,4,9,0,0,360,490
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,Remote Work,01/03/2020,387,108,26,87,5,10,4,0,0,120,420
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,Remote Work,01/04/2020,539,78,9,57,2,12,7,0,0,80,420
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,Remote Work,01/05/2020,656,145,28,99,1,26,18,1,0,160,770
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,Remote Work,01/06/2020,599,116,21,83,1,9,22,0,0,160,280
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Dawn Shift,Remote Work,01/07/2020,28,4,1,2,0,0,2,0,0,0,0
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/08/2020,630,119,26,83,3,8,15,4,210,240,560
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/09/2020,617,151,26,106,3,18,19,2,0,160,420
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/10/2020,613,105,34,75,2,8,13,6,0,40,420
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/11/2020,377,65,12,39,0,5,12,2,0,40,70
+731987,J. Amaral,24,Male,Active,5 Years,Undergraduate Degree,DevOps,Night Shift,In Person Work,01/12/2020,685,111,25,89,0,8,9,0,0,120,350
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/01/2023,822,206,45,177,5,14,6,3,0,320,1120
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/02/2023,852,170,28,137,2,18,7,2,0,360,350
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/03/2023,578,162,40,131,1,14,5,9,0,560,560
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/04/2023,596,147,38,112,2,18,11,3,0,200,770
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/05/2023,494,126,16,91,5,14,9,3,0,200,490
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/06/2023,472,116,21,97,5,8,5,0,0,240,210
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/07/2023,458,122,16,100,3,9,8,0,0,400,490
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/08/2023,324,63,10,53,0,13,4,0,210,120,140
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/09/2023,568,163,23,126,6,13,10,2,0,200,280
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/10/2023,619,164,42,131,5,12,9,5,0,400,560
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/11/2023,616,156,39,130,4,5,10,3,0,280,420
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/12/2023,514,135,39,111,0,4,8,7,210,480,420
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/01/2022,779,181,38,130,3,31,14,1,0,40,960
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/02/2022,0,0,0,0,0,0,0,0,0,0,0
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/03/2022,739,202,41,154,4,31,7,2,0,240,840
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/04/2022,876,261,39,207,5,28,19,0,0,400,1050
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/05/2022,494,161,10,119,5,28,6,0,0,320,210
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/06/2022,481,121,18,98,3,14,5,0,0,0,630
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/07/2022,493,117,18,86,5,17,6,2,0,80,700
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/08/2022,558,144,26,112,2,18,4,0,0,200,770
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/09/2022,477,116,20,85,1,13,8,3,0,120,350
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/10/2022,496,128,12,98,0,18,8,8,0,80,490
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/11/2022,391,86,19,65,3,11,2,5,0,120,210
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/12/2022,496,65,17,54,0,8,0,0,0,80,210
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/01/2021,923,10,27,143,5,44,15,9,0,200,910
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/02/2021,0,0,0,0,0,0,0,0,0,0,0
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/03/2021,988,230,53,137,6,44,21,4,0,160,910
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/04/2021,806,204,28,138,4,34,18,4,0,400,980
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/05/2021,634,147,16,88,7,30,14,1,0,40,840
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/06/2021,736,149,17,91,3,39,9,1,0,80,420
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/07/2021,663,160,11,104,2,29,20,0,0,240,770
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/08/2021,667,172,27,107,4,39,14,1,0,80,560
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/09/2021,783,177,20,131,8,29,4,1,0,120,1050
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/10/2021,798,175,26,128,5,26,7,0,0,200,700
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/11/2021,727,196,20,128,8,44,10,1,0,240,840
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/12/2021,814,185,45,148,3,30,1,2,0,120,1050
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Dawn Shift,In Person Work,01/01/2020,59,10,26,6,0,1,0,0,0,40,70
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Dawn Shift,In Person Work,01/02/2020,9,1,5,1,0,0,0,0,0,0,0
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,In Person Work,01/03/2020,749,107,39,88,1,18,0,0,0,80,630
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/04/2020,666,82,19,53,5,17,3,0,0,80,210
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/05/2020,803,134,46,97,4,24,6,0,0,120,350
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/06/2020,724,153,17,108,7,28,5,0,0,200,560
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/07/2020,843,117,45,132,6,29,5,0,0,80,490
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/08/2020,827,181,20,129,10,29,6,0,0,160,350
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/09/2020,739,191,21,113,9,46,0,11,0,40,700
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/10/2020,853,219,26,124,10,56,12,2,0,320,490
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/11/2020,889,209,27,142,6,35,7,3,0,80,700
+319752,C. Vitor,33,Male,Active,5 Years,Undergraduate Degree,Advertising,Day Shift,Remote Work,01/12/2020,1103,290,32,189,8,50,16,6,0,360,1120
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/01/2023,453,104,35,75,0,4,18,2,0,200,280
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/02/2023,0,0,0,0,0,0,0,0,0,0,0
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/03/2023,456,91,50,62,0,1,19,6,0,280,140
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/04/2023,402,85,18,85,2,4,16,5,0,240,70
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/05/2023,305,84,20,84,0,2,22,2,0,320,210
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2023,354,86,16,86,2,2,16,0,0,200,70
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/07/2023,33,43,2,43,0,0,0,17,210,0,0
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2022,601,131,28,98,2,2,20,1,0,160,490
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2022,510,128,17,100,4,0,19,1,210,280,490
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2022,729,154,30,120,4,2,15,4,0,360,700
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/04/2022,99,16,10,15,0,0,0,0,0,120,70
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2022,516,99,11,83,0,1,11,1,0,200,280
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2022,509,109,15,95,2,1,4,3,0,160,700
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/07/2022,512,99,11,75,4,3,21,0,210,200,280
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/08/2022,421,82,14,82,2,2,13,2,0,120,490
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/09/2022,425,82,18,61,4,8,7,4,0,80,140
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/10/2022,505,118,15,88,6,2,13,3,0,80,280
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/11/2022,574,113,41,93,3,2,10,3,0,280,350
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/12/2022,540,141,28,120,2,0,9,4,0,160,700
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2021,522,111,31,77,1,3,11,6,0,200,350
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2021,920,179,61,118,5,6,25,13,0,520,420
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/03/2021,919,175,48,115,3,2,35,8,210,400,560
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2021,778,156,43,103,10,3,17,15,0,40,840
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2021,647,110,20,61,3,2,21,10,0,0,280
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/06/2021,96,13,3,6,1,0,3,2,0,40,0
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/07/2021,543,131,21,86,5,4,25,2,0,160,560
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/08/2021,573,107,38,76,3,6,12,5,0,160,140
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/09/2021,758,125,18,87,4,3,24,3,0,160,630
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/10/2021,424,78,18,60,2,0,13,1,0,200,490
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2021,604,113,18,80,1,2,21,3,0,160,210
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2021,717,152,44,124,4,2,14,1,210,160,560
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/01/2020,708,126,66,100,2,9,12,0,0,200,210
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/02/2020,689,121,65,96,3,7,11,1,0,400,490
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Night Shift,In Person Work,01/03/2020,28,3,5,3,0,0,0,0,0,0,70
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/04/2020,632,116,19,88,0,6,15,4,0,360,700
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/05/2020,801,150,33,85,4,15,32,4,0,280,210
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/06/2020,545,82,30,41,4,13,13,3,420,80,350
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/07/2020,753,151,44,102,3,5,21,6,0,120,280
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/08/2020,306,68,12,46,0,3,14,2,0,40,280
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/09/2020,728,168,28,110,12,8,24,9,210,160,700
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/10/2020,730,156,44,91,6,4,28,10,0,240,210
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/11/2020,780,127,50,73,8,6,23,3,210,240,210
+171001,J. Marcel,30,Male,Inactive,5 Years,High School,Technical Support,Day Shift,In Person Work,01/12/2020,925,162,58,113,6,7,20,5,0,240,700
