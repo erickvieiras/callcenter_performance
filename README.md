@@ -1,11 +1,11 @@
 # CALLCENTER PERFORMANCE
 ### PORTUGUESE PT-BR VERSION BELLOW
-## PROJETC
+# PROJETC
 This Project uses fictitious and public data simulating the activities of a call center departament over the last 3 years, following technical support for internet and telephone products to evaluate business metrics, actionable insights for decision making and department performance.
 
 The activities are established as a client of the base requests guidance or technical assistance over the telephone, from this contact the needs for repair or support for the treatment or the client are assessed.
 
-## Metrics:
+# Metrics:
 
 Among the metrics evaluated in the dataset, we can highlight:
 
@@ -31,9 +31,9 @@ Value generated per service order;
 
 Individual performance of each employee;
 
-## Insights:
+# Insights:
 
-### Department:
+## Department:
 
 The department is made up of 10 active employees, and in the last 3 years there has been a 100% turnover of employees. Between the years 2020 and 2021 the department had a turnover rate of 20% based on the number of active employees, and in the years between 2022 and 2023 an increase of 50% compared to previous years.
 This indicates the departure of 2 employees from the department each year, and in the last 2 years this rate has increased to 3. Indicating a growing trend in layoffs in the department due to changes in position or dismissal.
@@ -65,7 +65,7 @@ In 2022, there was a 0.9% increase in network repair incidents in Day Shift, a 0
 
 In 2023, there will be a 10.6% reduction in network repair incidents in Day Shift, a 10% increase in network repair incidents in Night Shift, and a 0.6% increase in Dawn Shift.
 
-### Performance:
+## Performance:
 
 The department's performance score has a downward trend of 1.4% compared to years between 2020 and 2023 and a drop of 59.2% in calls in the last half of the same years.
 
@@ -80,7 +80,7 @@ By assigning an average performance of 70% to a positive score, it is possible t
 We can see that the ideal acquisition profile for the department are candidates who have a technical level in the area, who are university students or students in related areas or with academic training. The average age is 30 years old, with a variable age range between 22 and 35 years old.
 
 
-### Business Performance:
+## Business Performance:
 
 
 Through analysis of the department's demand and performance, we identified that between 2021 and 2023, eligible years with 24-hour service, we identified that Day Shift has an average of 68% of calls from the department with 62.9% in network repair incidents, Night Shift with an average of 30.5% of calls from the department with 31.5% in network repair incidents, while Dawn Shift has an average of 1.4% of calls with 5.4% in network repair incidents.
@@ -94,5 +94,7 @@ We can highlight a greater scope in the first and last quarter of the years, an 
 The ideal acquisition profile for the department are candidates who have a technical level in the area, who are university students or students in related areas or with a degree. The average age is 30 years old, with a variable age range between 22 and 35 years old.
 These parameters will bring a performance of 71% to 77.8% for the department. This performance represents the percentage of success in calls for repairs and service orders.
 
-## Final Product
+# Final Product
+
+The objective of the project is to create an interactive analytical Dashboard with a set of metrics not yet defined by the company, to assist in decision making, strategic analysis of the department and performance. The Realtime project can be accessed through the Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNjY1MWE0YjYtYWQ0MC00ZmU5LWIwMTktYmQ0YWUwNTljMGQzIiwidCI6ImNhMzA1OTYxLWFlMjYtNDU3Mi05NzllLWVlOGUyODhlYTc4MiJ9)
 
