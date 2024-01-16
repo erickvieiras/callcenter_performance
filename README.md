@@ -1,5 +1,5 @@
 # CALLCENTER PERFORMANCE
-### PORTUGUESE PT-BR VERSION BELLOW
+### PORTUGUESE PT-BR VERSION BELOW
 # PROJETC
 This Project uses fictitious and public data simulating the activities of a call center departament over the last 3 years, following technical support for internet and telephone products to evaluate business metrics, actionable insights for decision making and department performance.
 
