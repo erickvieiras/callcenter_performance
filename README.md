@@ -16,15 +16,18 @@ Employee time employed;
 
 Current status of the employee;
 
-Employee's educational level
+Employee's educational level;
+
 Academic training of the Employee;
 
 Work modeling;
 
 Day period;
+
 Date of each service;
 
 Number of calls per employee;
+
 Number and type of service orders per employee;
 
 Value generated per service order;
@@ -115,15 +118,18 @@ Tempo empregado do Funcionario;
 
 Status atual do funcionario;
 
-Nivel de formação escolar do Funcionario
+Nivel de formação escolar do Funcionario; 
+
 Formação academica do Funcionario;
 
 Modelalidade de trabalho;
 
 Periodo do dia;
+
 Data de cada atendimento;
 
 Quantidade de atendimentos por funcionario;
+
 Quantidade e tipo de ordens de serviços por funcionario;
 
 Valor gerado por ordem de serviço;
